@@ -152,10 +152,10 @@ jupyter notebook notebooks/Credit_Card_Fraud_Detection.ipynb
 ## 📈 Key Takeaways
 
 - **SMOTE consistently outperformed** class-weight approach across all model architectures
-- **Feature selection** reduced 91.6% of features with no AUC loss — leaner and faster model
+- **Feature selection** reduced the feature space by 91.6% (2,193 → 184 features) while maintaining comparable ROC-AUC performance.
 - **XGBoost** was the best architecture due to its ability to handle tabular data with class imbalance
 - **Accuracy is misleading** for imbalanced datasets — F1 and ROC-AUC are the right metrics
-- Estimated potential annual savings: **~$4.83M under the project's defined cost-benefit assumptions.**
+- **Estimated potential annual savings**: ~$4.83M under the project's defined cost-benefit assumptions.
 
 ---
 
