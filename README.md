@@ -5,7 +5,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2+-yellow?logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-A machine learning system to detect fraudulent credit card transactions from 1.29M real-world records, achieving **ROC-AUC of 0.983** and estimating **~$402K/month** in fraud savings for Finex Bank.
+A machine learning system for detecting fraudulent credit card transactions across 1.29M+ transaction records, achieving a ROC-AUC of 0.983. The project also includes a cost-benefit analysis estimating potential financial impact under defined assumptions.
 
 ---
 
