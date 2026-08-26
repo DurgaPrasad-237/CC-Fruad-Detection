@@ -155,7 +155,7 @@ jupyter notebook notebooks/Credit_Card_Fraud_Detection.ipynb
 - **Feature selection** reduced 91.6% of features with no AUC loss — leaner and faster model
 - **XGBoost** was the best architecture due to its ability to handle tabular data with class imbalance
 - **Accuracy is misleading** for imbalanced datasets — F1 and ROC-AUC are the right metrics
-- Model saves Finex Bank an estimated **~$4.83 million per year**
+- Estimated potential annual savings: **~$4.83M under the project's defined cost-benefit assumptions.**
 
 ---
 
